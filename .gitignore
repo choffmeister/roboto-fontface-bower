@@ -2,3 +2,5 @@
 .DS_Store
 Thumbs.db
 
+# Sass-specific
+.sass-cache
