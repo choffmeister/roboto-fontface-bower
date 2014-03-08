@@ -23,4 +23,4 @@ $robotoFontPath: 'fonts' !default;
 @include roboto-font-pair(Regular, 400);
 @include roboto-font-pair(Medium, 500);
 @include roboto-font-pair(Bold, 700);
-@include roboto-font-pair(Black, 900);
+@include roboto-font-pair('Black', 900);
