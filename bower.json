@@ -1,6 +1,6 @@
 {
   "name": "roboto-fontface-bower",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "main": [
     "./roboto-fontface.css",
     "./fonts/Roboto-Black.eot",
