@@ -1,13 +1,13 @@
-$robotoFontPath: 'fonts' !default;
+$roboto-font-path: 'fonts' !default;
 
 @mixin roboto-font($type, $weight, $style: normal) {
     @font-face {
         font-family: 'Roboto';
-        src: url('#{$robotoFontPath}/Roboto-#{$type}.eot');
-        src: url('#{$robotoFontPath}/Roboto-#{$type}.eot?#iefix') format('embedded-opentype'),
-             url('#{$robotoFontPath}/Roboto-#{$type}.woff') format('woff'),
-             url('#{$robotoFontPath}/Roboto-#{$type}.ttf') format('truetype'),
-             url('#{$robotoFontPath}/Roboto-#{$type}.svg#Roboto') format('svg');
+        src: url('#{$roboto-font-path}/Roboto-#{$type}.eot');
+        src: url('#{$roboto-font-path}/Roboto-#{$type}.eot?#iefix') format('embedded-opentype'),
+             url('#{$roboto-font-path}/Roboto-#{$type}.woff') format('woff'),
+             url('#{$roboto-font-path}/Roboto-#{$type}.ttf') format('truetype'),
+             url('#{$roboto-font-path}/Roboto-#{$type}.svg#Roboto') format('svg');
         font-weight: $weight;
         font-style: $style;
     }
