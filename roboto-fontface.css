@@ -2,6 +2,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-Thin.eot');
     src: url('fonts/Roboto-Thin.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-Thin.woff2') format('woff2'),
          url('fonts/Roboto-Thin.woff') format('woff'),
          url('fonts/Roboto-Thin.ttf') format('truetype'),
          url('fonts/Roboto-Thin.svg#Roboto') format('svg');
@@ -13,6 +14,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-ThinItalic.eot');
     src: url('fonts/Roboto-ThinItalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-ThinItalic.woff2') format('woff2'),
          url('fonts/Roboto-ThinItalic.woff') format('woff'),
          url('fonts/Roboto-ThinItalic.ttf') format('truetype'),
          url('fonts/Roboto-ThinItalic.svg#Roboto') format('svg');
@@ -24,6 +26,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-Light.eot');
     src: url('fonts/Roboto-Light.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-Light.woff2') format('woff2'),
          url('fonts/Roboto-Light.woff') format('woff'),
          url('fonts/Roboto-Light.ttf') format('truetype'),
          url('fonts/Roboto-Light.svg#Roboto') format('svg');
@@ -35,6 +38,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-LightItalic.eot');
     src: url('fonts/Roboto-LightItalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-LightItalic.woff2') format('woff2'),
          url('fonts/Roboto-LightItalic.woff') format('woff'),
          url('fonts/Roboto-LightItalic.ttf') format('truetype'),
          url('fonts/Roboto-LightItalic.svg#Roboto') format('svg');
@@ -46,6 +50,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-Regular.eot');
     src: url('fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-Regular.woff2') format('woff2'),
          url('fonts/Roboto-Regular.woff') format('woff'),
          url('fonts/Roboto-Regular.ttf') format('truetype'),
          url('fonts/Roboto-Regular.svg#Roboto') format('svg');
@@ -57,6 +62,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-RegularItalic.eot');
     src: url('fonts/Roboto-RegularItalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-RegularItalic.woff2') format('woff2'),
          url('fonts/Roboto-RegularItalic.woff') format('woff'),
          url('fonts/Roboto-RegularItalic.ttf') format('truetype'),
          url('fonts/Roboto-RegularItalic.svg#Roboto') format('svg');
@@ -68,6 +74,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-Medium.eot');
     src: url('fonts/Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-Medium.woff2') format('woff2'),
          url('fonts/Roboto-Medium.woff') format('woff'),
          url('fonts/Roboto-Medium.ttf') format('truetype'),
          url('fonts/Roboto-Medium.svg#Roboto') format('svg');
@@ -79,6 +86,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-MediumItalic.eot');
     src: url('fonts/Roboto-MediumItalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-MediumItalic.woff2') format('woff2'),
          url('fonts/Roboto-MediumItalic.woff') format('woff'),
          url('fonts/Roboto-MediumItalic.ttf') format('truetype'),
          url('fonts/Roboto-MediumItalic.svg#Roboto') format('svg');
@@ -90,6 +98,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-Bold.eot');
     src: url('fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-Bold.woff2') format('woff2'),
          url('fonts/Roboto-Bold.woff') format('woff'),
          url('fonts/Roboto-Bold.ttf') format('truetype'),
          url('fonts/Roboto-Bold.svg#Roboto') format('svg');
@@ -101,6 +110,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-BoldItalic.eot');
     src: url('fonts/Roboto-BoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-BoldItalic.woff2') format('woff2'),
          url('fonts/Roboto-BoldItalic.woff') format('woff'),
          url('fonts/Roboto-BoldItalic.ttf') format('truetype'),
          url('fonts/Roboto-BoldItalic.svg#Roboto') format('svg');
@@ -112,6 +122,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-Black.eot');
     src: url('fonts/Roboto-Black.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-Black.woff2') format('woff2'),
          url('fonts/Roboto-Black.woff') format('woff'),
          url('fonts/Roboto-Black.ttf') format('truetype'),
          url('fonts/Roboto-Black.svg#Roboto') format('svg');
@@ -123,6 +134,7 @@
     font-family: 'Roboto';
     src: url('fonts/Roboto-BlackItalic.eot');
     src: url('fonts/Roboto-BlackItalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Roboto-BlackItalic.woff2') format('woff2'),
          url('fonts/Roboto-BlackItalic.woff') format('woff'),
          url('fonts/Roboto-BlackItalic.ttf') format('truetype'),
          url('fonts/Roboto-BlackItalic.svg#Roboto') format('svg');
