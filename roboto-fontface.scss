@@ -2,7 +2,7 @@ $roboto-font-path: 'fonts' !default;
 
 @mixin roboto-font($type, $weight, $style: normal) {
     @font-face {
-        font-family: 'Roboto-#{$type}';
+        font-family: 'Roboto';
         src: url('#{$roboto-font-path}/Roboto-#{$type}.eot');
         src: url('#{$roboto-font-path}/Roboto-#{$type}.eot?#iefix') format('embedded-opentype'),
              url('#{$roboto-font-path}/Roboto-#{$type}.woff2') format('woff2'),
@@ -11,6 +11,16 @@ $roboto-font-path: 'fonts' !default;
              url('#{$roboto-font-path}/Roboto-#{$type}.svg#Roboto') format('svg');
         font-weight: $weight;
         font-style: $style;
+    }
+
+    @font-face {
+        font-family: 'Roboto-#{$type}';
+        src: url('#{$roboto-font-path}/Roboto-#{$type}.eot');
+        src: url('#{$roboto-font-path}/Roboto-#{$type}.eot?#iefix') format('embedded-opentype'),
+             url('#{$roboto-font-path}/Roboto-#{$type}.woff2') format('woff2'),
+             url('#{$roboto-font-path}/Roboto-#{$type}.woff') format('woff'),
+             url('#{$roboto-font-path}/Roboto-#{$type}.ttf') format('truetype'),
+             url('#{$roboto-font-path}/Roboto-#{$type}.svg#Roboto') format('svg');
     }
 }
 
