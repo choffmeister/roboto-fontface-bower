@@ -2,7 +2,7 @@ $roboto-font-path: 'fonts' !default;
 
 @mixin roboto-font($type, $weight, $style: normal) {
     @font-face {
-        font-family: 'Roboto';
+        font-family: 'Roboto-#{$type}';
         src: url('#{$roboto-font-path}/Roboto-#{$type}.eot');
         src: url('#{$roboto-font-path}/Roboto-#{$type}.eot?#iefix') format('embedded-opentype'),
              url('#{$roboto-font-path}/Roboto-#{$type}.woff2') format('woff2'),
