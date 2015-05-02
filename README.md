@@ -9,3 +9,15 @@ Assuming you have [NodeJS](http://nodejs.org/) and [Bower](http://bower.io/) ins
 ```
 $ bower install roboto-fontface --save
 ```
+
+## Hinting
+
+Some of the included font files have [hinting](http://en.wikipedia.org/wiki/Font_hinting).
+
+| Files    | Hinting |
+|----------|---------|
+| `.eot`   | ?       |
+| `.svg`   | no      |
+| `.ttf`   | ?       |
+| `.woff`  | yes     |
+| `.woff2` | ?       |
