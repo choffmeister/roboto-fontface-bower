@@ -1,6 +1,6 @@
 {
   "name": "roboto-fontface",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A simple package providing the [Roboto](http://www.google.com/fonts/specimen/Roboto) fontface.",
   "main": "css/roboto-fontface.css",
   "scripts": {
