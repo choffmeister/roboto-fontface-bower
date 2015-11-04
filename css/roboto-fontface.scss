@@ -1,4 +1,5 @@
 $roboto-font-path: '../fonts' !default;
+$include-styles: true !default;
 
 @mixin roboto-font($type, $weight, $style: normal) {
     @font-face {
@@ -28,14 +29,18 @@ $roboto-font-path: '../fonts' !default;
     }
 }
 
-@mixin roboto-font-pair($type, $weight) {
+@mixin roboto-font-pair($type, $weight, $with-italic: true) {
     @include roboto-font($type, $weight);
-    @include roboto-font(#{$type}Italic, $weight, italic);
+    @if $with-italic {
+        @include roboto-font(#{$type}Italic, $weight, italic);
+    }
 }
 
-@include roboto-font-pair('Thin', 100);
-@include roboto-font-pair('Light', 300);
-@include roboto-font-pair('Regular', 400);
-@include roboto-font-pair('Medium', 500);
-@include roboto-font-pair('Bold', 700);
-@include roboto-font-pair('Black', 900);
+@if $include-styles {
+    @include roboto-font-pair('Thin', 100);
+    @include roboto-font-pair('Light', 300);
+    @include roboto-font-pair('Regular', 400);
+    @include roboto-font-pair('Medium', 500);
+    @include roboto-font-pair('Bold', 700);
+    @include roboto-font-pair('Black', 900);
+}
