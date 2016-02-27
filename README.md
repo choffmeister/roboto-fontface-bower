@@ -31,6 +31,11 @@ of the following files:
 * `roboto-fontface-(thin|light|regular|medium|bold|black).scss`
 * `roboto-fontface-(thin|light|regular|medium|bold|black).less`
 
+Their italic variants can be imported by adding `-italic` suffix:
+
+* `roboto-fontface-(thin|light|regular|medium|bold|black)-italic.scss`
+* `roboto-fontface-(thin|light|regular|medium|bold|black)-italic.less`
+
 ## Hinting
 
 Some of the included font files have [hinting](http://en.wikipedia.org/wiki/Font_hinting).
