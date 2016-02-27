@@ -1,3 +1,7 @@
+# Node
+node_modules/
+npm-debug.log
+
 # OS specific trash
 .DS_Store
 ._.DS_Store
