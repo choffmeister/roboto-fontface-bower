@@ -4,7 +4,7 @@
   "description": "A simple package providing the Roboto fontface.",
   "main": "css/roboto-fontface.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./test.sh"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/choffmeister/roboto-fontface-bower/issues"
   },
-  "homepage": "https://github.com/choffmeister/roboto-fontface-bower"
+  "homepage": "https://github.com/choffmeister/roboto-fontface-bower",
+  "devDependencies": {
+    "less": "2.6.0",
+    "node-sass": "3.4.2"
+  }
 }
