@@ -1,7 +1,7 @@
 {
     "name": "roboto-fontface",
     "description": "A simple package providing the Roboto fontface.",
-    "version": "0.4.5",
+    "version": "0.5.0",
     "main": [
         "./css/roboto/roboto-fontface.css",
         "./css/roboto-condensed/roboto-condensed-fontface.css",

@@ -20,21 +20,19 @@ $ bower install roboto-fontface --save
 There're several files in the `css/` subdirectory. Import them in your project
 to have access to "Roboto" font face:
 
-* `roboto-fontface.css` - whole font family compiled to CSS
-* `sass/roboto-fontface.scss` - whole font family in SCSS
-* `less/roboto-fontface.less` - whole font family in LESS
+* `css/roboto/roboto-fontface.css` - whole font family compiled to CSS
+* `css/roboto/sass/roboto-fontface.scss` - whole font family in SCSS
+* `css/roboto/less/roboto-fontface.less` - whole font family in LESS
+
+* `css/roboto-condensed/roboto-condensed-fontface.css` - whole font family compiled to CSS
+* `css/roboto-condensed/sass/roboto-condensed-fontface.scss` - whole font family in SCSS
+* `css/roboto-condensed/less/roboto-condensed-fontface.less` - whole font family in LESS
 
 Importing whole family may be unnecessary and lead to huge build, so if you are
-using SCSS or LESS, you can import only individual weights by importing one
-of the following files:
+using SCSS or LESS, you can import only individual weights by importing for example:
 
-* `roboto-fontface-(thin|light|regular|medium|bold|black).scss`
-* `roboto-fontface-(thin|light|regular|medium|bold|black).less`
-
-Their italic variants can be imported by adding `-italic` suffix:
-
-* `roboto-fontface-(thin|light|regular|medium|bold|black)-italic.scss`
-* `roboto-fontface-(thin|light|regular|medium|bold|black)-italic.less`
+* `css/roboto/sass/roboto-fontface-black.scss`
+* `css/roboto/sass/roboto-fontface-black-italic.scss`
 
 ## Hinting
 
