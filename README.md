@@ -21,8 +21,8 @@ There're several files in the `css/` subdirectory. Import them in your project
 to have access to "Roboto" font face:
 
 * `roboto-fontface.css` - whole font family compiled to CSS
-* `roboto-fontface.scss` - whole font family in SCSS
-* `roboto-fontface.less` - whole font family in LESS
+* `sass/roboto-fontface.scss` - whole font family in SCSS
+* `less/roboto-fontface.less` - whole font family in LESS
 
 Importing whole family may be unnecessary and lead to huge build, so if you are
 using SCSS or LESS, you can import only individual weights by importing one
