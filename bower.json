@@ -3,10 +3,7 @@
     "description": "A simple package providing the Roboto fontface.",
     "version": "0.6.0",
     "main": [
-        "./css/roboto/roboto-fontface.css",
-        "./css/roboto-condensed/roboto-condensed-fontface.css",
-        "./fonts/roboto/*.*",
-        "./fonts/roboto-condensed/*.*"
+        "./css/roboto/roboto-fontface.css"
     ],
     "ignore": [
         "**/.*",
