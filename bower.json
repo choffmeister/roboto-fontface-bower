@@ -5,8 +5,10 @@
     "main": [
         "./css/roboto/roboto-fontface.css",
         "./css/roboto-condensed/roboto-condensed-fontface.css",
+        "./css/roboto-slab/roboto-slab-fontface.css",
         "./fonts/roboto/*.*",
-        "./fonts/roboto-condensed/*.*"
+        "./fonts/roboto-condensed/*.*",
+        "./fonts/roboto-slab/*.*"
     ],
     "ignore": [
         "**/.*",
