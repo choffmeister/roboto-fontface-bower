@@ -1,14 +1,9 @@
 {
     "name": "roboto-fontface",
     "description": "A simple package providing the Roboto fontface.",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "main": [
-        "./css/roboto/roboto-fontface.css",
-        "./css/roboto-condensed/roboto-condensed-fontface.css",
-        "./css/roboto-slab/roboto-slab-fontface.css",
-        "./fonts/roboto/*.*",
-        "./fonts/roboto-condensed/*.*",
-        "./fonts/roboto-slab/*.*"
+        "./css/roboto/roboto-fontface.css"
     ],
     "ignore": [
         "**/.*",
