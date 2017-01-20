@@ -28,6 +28,10 @@ to have access to "Roboto" font face:
 * `css/roboto-condensed/sass/roboto-condensed-fontface.scss` - whole font family in SCSS
 * `css/roboto-condensed/less/roboto-condensed-fontface.less` - whole font family in LESS
 
+* `css/roboto-slab/roboto-slab-fontface.css` - whole font family compiled to CSS
+* `css/roboto-slab/sass/roboto-slab-fontface.scss` - whole font family in SCSS
+* `css/roboto-slab/less/roboto-slab-fontface.less` - whole font family in LESS
+
 Importing whole family may be unnecessary and lead to huge build, so if you are
 using SCSS or LESS, you can import only individual weights by importing for example:
 
