@@ -1,4 +1,4 @@
-$roboto-font-path: '../../../fonts' !default;
+$roboto-font-path: '~roboto-fontface/fonts' !default;
 
 @mixin roboto-font($variant, $type, $weight, $style) {
 
