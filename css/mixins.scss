@@ -2,7 +2,7 @@ $roboto-font-path: '../../../fonts' !default;
 
 @mixin roboto-font($variant, $type, $weight, $style) {
 
-    $font-full-path: '#{$roboto-font-path}/#{$variant}/#{$variant}';
+    $font-full-path: '#{$roboto-font-path}/#{to-lower-case($variant)}/#{$variant}';
 
     @font-face {
         font-family: '#{$variant}';
