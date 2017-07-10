@@ -1,8 +1,8 @@
 @roboto-font-path: '../../../fonts';
 
-.roboto-font(@variant, @type, @weight, @style) {
+.roboto-font(@folder, @variant, @type, @weight, @style) {
 
-    @font-full-path: '@{roboto-font-path}/@{variant}/@{variant}';
+    @font-full-path: '@{roboto-font-path}/@{folder}/@{variant}';
 
     @font-face {
         font-family: '@{variant}';
