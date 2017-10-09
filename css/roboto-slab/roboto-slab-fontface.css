@@ -4,6 +4,7 @@
     src: local('Roboto-Slab Thin'), local('Roboto-Slab-Thin'), url('../../fonts/roboto-slab/Roboto-Slab-Thin.eot?#iefix') format('embedded-opentype'), url('../../fonts/roboto-slab/Roboto-Slab-Thin.woff2') format('woff2'), url('../../fonts/roboto-slab/Roboto-Slab-Thin.woff') format('woff'), url('../../fonts/roboto-slab/Roboto-Slab-Thin.ttf') format('truetype'), url('../../fonts/roboto-slab/Roboto-Slab-Thin.svg#Roboto-Slab') format('svg');
     font-weight: 100;
     font-style: normal;
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 
 @font-face {
@@ -18,6 +19,7 @@
     src: local('Roboto-Slab Light'), local('Roboto-Slab-Light'), url('../../fonts/roboto-slab/Roboto-Slab-Light.eot?#iefix') format('embedded-opentype'), url('../../fonts/roboto-slab/Roboto-Slab-Light.woff2') format('woff2'), url('../../fonts/roboto-slab/Roboto-Slab-Light.woff') format('woff'), url('../../fonts/roboto-slab/Roboto-Slab-Light.ttf') format('truetype'), url('../../fonts/roboto-slab/Roboto-Slab-Light.svg#Roboto-Slab') format('svg');
     font-weight: 300;
     font-style: normal;
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 
 @font-face {
