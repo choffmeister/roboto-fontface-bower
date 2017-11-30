@@ -4,6 +4,7 @@
     src: local('Roboto Thin'), local('Roboto-Thin'), url('../../fonts/roboto/Roboto-Thin.eot?#iefix') format('embedded-opentype'), url('../../fonts/roboto/Roboto-Thin.woff2') format('woff2'), url('../../fonts/roboto/Roboto-Thin.woff') format('woff'), url('../../fonts/roboto/Roboto-Thin.ttf') format('truetype'), url('../../fonts/roboto/Roboto-Thin.svg#Roboto') format('svg');
     font-weight: 100;
     font-style: normal;
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 
 @font-face {
@@ -18,6 +19,7 @@
     src: local('Roboto ThinItalic'), local('Roboto-ThinItalic'), url('../../fonts/roboto/Roboto-ThinItalic.eot?#iefix') format('embedded-opentype'), url('../../fonts/roboto/Roboto-ThinItalic.woff2') format('woff2'), url('../../fonts/roboto/Roboto-ThinItalic.woff') format('woff'), url('../../fonts/roboto/Roboto-ThinItalic.ttf') format('truetype'), url('../../fonts/roboto/Roboto-ThinItalic.svg#Roboto') format('svg');
     font-weight: 100;
     font-style: italic;
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 
 @font-face {
@@ -32,6 +34,7 @@
     src: local('Roboto Light'), local('Roboto-Light'), url('../../fonts/roboto/Roboto-Light.eot?#iefix') format('embedded-opentype'), url('../../fonts/roboto/Roboto-Light.woff2') format('woff2'), url('../../fonts/roboto/Roboto-Light.woff') format('woff'), url('../../fonts/roboto/Roboto-Light.ttf') format('truetype'), url('../../fonts/roboto/Roboto-Light.svg#Roboto') format('svg');
     font-weight: 300;
     font-style: normal;
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 
 @font-face {
@@ -46,6 +49,7 @@
     src: local('Roboto LightItalic'), local('Roboto-LightItalic'), url('../../fonts/roboto/Roboto-LightItalic.eot?#iefix') format('embedded-opentype'), url('../../fonts/roboto/Roboto-LightItalic.woff2') format('woff2'), url('../../fonts/roboto/Roboto-LightItalic.woff') format('woff'), url('../../fonts/roboto/Roboto-LightItalic.ttf') format('truetype'), url('../../fonts/roboto/Roboto-LightItalic.svg#Roboto') format('svg');
     font-weight: 300;
     font-style: italic;
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 
 @font-face {
