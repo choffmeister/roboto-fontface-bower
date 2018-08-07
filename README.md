@@ -44,8 +44,5 @@ Some of the included font files have [hinting](http://en.wikipedia.org/wiki/Font
 
 | Files    | Hinting |
 |----------|---------|
-| `.eot`   | ?       |
-| `.svg`   | no      |
-| `.ttf`   | ?       |
 | `.woff`  | yes     |
 | `.woff2` | ?       |
