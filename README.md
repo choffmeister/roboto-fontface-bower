@@ -38,6 +38,13 @@ using SCSS or LESS, you can import only individual weights by importing for exam
 * `css/roboto/sass/roboto-fontface-black.scss`
 * `css/roboto/sass/roboto-fontface-black-italic.scss`
 
+With Sass/Less, you can adjust the font path to your needs with the `$roboto-font-path` variable. For example (Sass):
+
+```sass
+$roboto-font-path: 'path/where/you/put/fonts'
+@import 'node_modules/roboto-fontface/css/roboto/sass/roboto-fontface.scss'
+```
+
 ## Hinting
 
 Some of the included font files have [hinting](http://en.wikipedia.org/wiki/Font_hinting).
