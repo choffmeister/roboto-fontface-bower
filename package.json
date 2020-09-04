@@ -23,6 +23,6 @@
     "homepage": "https://github.com/choffmeister/roboto-fontface-bower",
     "devDependencies": {
         "less": "2.7.1",
-        "node-sass": "3.8.0"
+        "node-sass": "4.13.1"
     }
 }
