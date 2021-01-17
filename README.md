@@ -1,6 +1,6 @@
 # Roboto fontface
 
-A simple package providing the [Roboto](http://www.google.com/fonts/specimen/Roboto) fontface. The font was created by [Christian Robertson](https://plus.google.com/110879635926653430880/about).
+**This repository has been archived. Please visit https://github.com/fontsource/fontsource for a better, actively maintained alternative that also provides many more open source fonts.**
 
 ## Installing
 
